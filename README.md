@@ -44,25 +44,25 @@ After completing the EDA, I extended the project by experimenting with different
 ## 📊 Visualizations
 
 ### 1. Survival by Passenger Class (Pclass)  
-![Survived by Pclass](images/survived_by_pclass.png)  
+![Survived by Pclass](Images/Survived_by_Pclass.png)  
 - Higher survival rate among passengers in **1st class** compared to 2nd and 3rd.
 
 ---
 
 ### 2. Survival by Sex  
-![Survived by Sex](images/survived_by_sex.png)  
+![Survived by Sex](Images/Survived_by_Sex.png)  
 - **Females had a much higher survival rate** than males.
 
 ---
 
 ### 3. Survival by Embarkation Port (Embarked)  
-![Survived by Embarked](images/survived_by_embarked.png)  
+![Survived by Embarked](Images/Survived_by_Embarked.png)  
 - Passengers from Southampton (S) had relatively higher survival rates.
 
 ---
 
 ### 4. Correlation Heatmap  
-![Correlation Heatmap](images/correlation_heatmap.png)  
+![Correlation Heatmap](Images/Correlations_between__numeric_features.png)  
 - **Fare** and **Pclass** are negatively correlated.  
 - **Survival** is positively correlated with **Fare**, negatively with **Pclass**.
 
